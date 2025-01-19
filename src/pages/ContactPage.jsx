@@ -1,3 +1,4 @@
+//contact
 import ContactFrom from '../components/ContactFrom';
 
 function ContactPage() {
